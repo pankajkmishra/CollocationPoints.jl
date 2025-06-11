@@ -1,2 +1,2 @@
 # DeepOperatorNetworks.jl
-Different flavors of Deep Operator Networks (DeepONet) 
+Solving PDEs with Deep Operator Networks (DeepONet) 
