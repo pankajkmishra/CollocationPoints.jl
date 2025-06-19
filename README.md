@@ -1,2 +1,2 @@
-# DeepOperatorNetworks.jl
-Solving PDEs with Deep Operator Networks (DeepONet) 
+# CollocationPoints.jl
+Fast generation of collocation points for physics-informed machine learning 
