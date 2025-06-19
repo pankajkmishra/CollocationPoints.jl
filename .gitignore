@@ -1,0 +1,18 @@
+# Julia files
+*.log
+*.so
+*.dylib
+*.dll
+*.ji
+
+# Project files
+/Manifest.toml
+
+# Build artifacts
+/build/
+
+# Generated files
+/figures/
+
+# Other
+.DS_Store
