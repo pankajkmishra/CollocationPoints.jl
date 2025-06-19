@@ -1,5 +1,5 @@
 name = "CollocationPoints"
-uuid = "a1b2c3d4-e5f6-7890-1234-56789abcdef0" # A unique UUID for your package
+uuid = "cd800ea3-9c05-4126-853c-c410ce4c5c45" # A unique UUID for your package
 authors = ["pankajkmishra"]
 version = "0.1.0"
 
