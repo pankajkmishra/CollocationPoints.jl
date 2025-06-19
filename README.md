@@ -1,4 +1,4 @@
-# CollocationPoints.jl
+# CollocationPoints.jl [Experimental]
 
 `CollocationPoints.jl` is a Julia package for generating collocation points inside various domains, with support for variable point density. The primary goal here is to use this for solving PDEs with physics-informed machine learning
 
@@ -9,19 +9,6 @@
 - Define complex domains from boundary coordinates.
 - Smooth boundary representations.
 
-## Installation
-
-You can install the package from its repository. Start Julia, press `]` to enter the Pkg REPL, and then run:
-
-```julia
-add https://github.com/your-username/CollocationPoints.jl
-```
-*(Note: You will need to replace `your-username` with your actual GitHub username once you've pushed the repository there.)*
-
-To install the package locally for development:
-```julia
-pkg> dev /path/to/CollocationPoints.jl
-```
 
 ## Usage
 
