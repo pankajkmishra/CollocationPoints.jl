@@ -68,3 +68,9 @@ The examples for complex geometries (`L-shape`, `lake`, `island`) require data f
 - `island.txt`
 
 Each file should contain a list of x, y coordinates, one pair per line, separated by spaces.
+
+
+# Citations
+
+- Mishra, Pankaj K (2019). NodeLab: A MATLAB package for meshfree node-generation and adaptive refinement. Journal of Open Source Software, 4(40), 1173, https://doi.org/10.21105/joss.01173
+- Fornberg, B. and Flyer, N., 2015. Fast generation of 2-D node distributions for mesh-free PDE discretizations. Computers & Mathematics with Applications, 69(7), pp.531-544. 
