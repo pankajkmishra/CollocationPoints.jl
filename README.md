@@ -10,6 +10,10 @@
 - Smooth boundary representations.
 
 
+![Alternative text](fig.png)
+
+
+
 ## Usage
 
 Here is a basic example of how to generate and plot uniform collocation points in a circle:
