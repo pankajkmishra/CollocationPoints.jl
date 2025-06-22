@@ -1,4 +1,4 @@
-# CollocationPoints.jl [Experimental]
+# CollocationPoints.jl
 
 `CollocationPoints.jl` is a Julia package for generating collocation points inside various domains, with support for variable point density. The primary goal here is to use this for solving PDEs with physics-informed machine learning
 
