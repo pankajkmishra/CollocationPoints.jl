@@ -12,7 +12,7 @@
 /build/
 
 # Generated files
-/figures/
+/examples/figures/
 
 # Other
 .DS_Store

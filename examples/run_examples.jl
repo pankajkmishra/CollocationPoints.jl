@@ -2,7 +2,9 @@
 ENV["GKSwstype"]="100"
 
 println("Loading required packages and modules...")
-using CollocationPoints
+include("../src/CollocationPoints.jl")
+using .CollocationPoints 
+
 using CairoMakie
 using LinearAlgebra
 
